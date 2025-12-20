@@ -1,2 +1,7 @@
 # Snake
-![Something funny idk](https://media1.tenor.com/m/dVda5QNbsdoAAAAd/big-boss-the-boss.gif)
+![Something funny idk](assets/SNAAAAAAAAAAAAAAAAAAAAKE.gif)
+This was a **HORRIBLE** joke
+
+Download from `Releases`
+
+Good luck!
