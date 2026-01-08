@@ -3,6 +3,8 @@
 This was a **HORRIBLE** joke</br>
 ## About
 A simple snake game built with Pygame. Collect points, avoid running into yourself, choose your difficulty, dodge walls (in a certain 🗿 gamemode), and see how long you can survive!
+
+Legal disclaimer: No snakes were harmed in the making of this game
 ## Downloading & Installation
 1. Download the `.exe` file from **Releases**. This time, I saved you the hassle of downloading Python or Pygame.
 2. Double-click & play
